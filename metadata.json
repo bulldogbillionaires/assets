@@ -1,48 +1,11 @@
 {
-  "name": "Bulldog #1007",
+  "name": "Bulldog Billionaires WL Ticket",
   "symbol": "BULLDOG",
-  "description": "Welcome to an alternate reality, where 2000 ai-generated bulldogs have taken over the blockchain.",
   "seller_fee_basis_points": 500,
-  "image": "https://raw.githubusercontent.com/bulldogbillionaires/assets/main/1007.png",
   "external_url": "https://www.BulldogBillionaires.club/",
-  "edition": 1007,
   "collection": {
     "name": "Bulldog Billionaires"
   },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Fur",
-      "value": "Tan"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "White Polo"
-    },
-    {
-      "trait_type": "Collar",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Purple Eyes"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Tongue"
-    }
-  ],
   "properties": {
     "files": [
       {
